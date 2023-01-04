@@ -32,6 +32,7 @@
 
 ## 設計書
 - ER図：　https://app.diagrams.net/#G1dlTcGG1NS2sgD10I6C_RwkVnAHN2HOhO
+- テーブル定義書：https://docs.google.com/spreadsheets/d/1593sPu0AOpRTKBbhTSDbEqNuAfDjF5k3C0z0RyQ3RRE/edit#gid=1434759047
 
 ## 開発環境
 - OS：Linux(CentOS)
