@@ -1,29 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-* 
-
 # 強くなりたい！極真空手の悩み解決アプリ
 
 ## サイト概要
@@ -33,9 +9,12 @@ Things you may want to cover:
 3. 解決策に対してコメントする機能（コメント機能）
 4. 解決策に対しいいね機能をつけ、解決策を評価(いいね機能)
 5. 解決策をいいねが多い順に表示
-6. 悩み一覧を表示する機能(投稿一覧表示機能)
-7. 悩み別に検索できる機能(検索機能)
-8. 悩みをカテゴリー別に分ける（カテゴリー機能）
+6. 自身のいいねした、質問・解答を一覧表示する機能（いいね一覧表示機能）
+7. 悩み一覧を表示する機能(投稿一覧表示機能)
+8. 悩み別に検索できる機能(検索機能)
+9. 悩みをカテゴリー別に分ける（カテゴリー機能）
+10. 質問を解決ステータス別に表示
+11. 解答数の多い質問をランキング形式で表示(ランキング機能)
 
 
 ### テーマを選んだ理由
@@ -48,8 +27,8 @@ Things you may want to cover:
 2. 極真空手を人に教えたい人
 
 ### 主な利用シーン
-1. 極真空手の悩みを解決したい時に利用(投稿) 
-2. 悩みを解決してあげたい時に利用（コメント）
+1. 極真空手の悩みを解決したい時に利用(質問を投稿、該当する質問を検索) 、
+2. 悩みを解決してあげたい時に利用（解答をコメント）
 
 ## 設計書
 - ER図：　https://app.diagrams.net/#G1dlTcGG1NS2sgD10I6C_RwkVnAHN2HOhO
@@ -64,5 +43,3 @@ Things you may want to cover:
 ## 使用素材
 1. canva:  https://www.canva.com/
 2. illust AC:  https://www.ac-illust.com/
-- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
-- 使用しない場合は、使用素材の項目をREADMEから削除してください。
